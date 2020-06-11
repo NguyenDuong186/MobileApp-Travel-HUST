@@ -1,4 +1,5 @@
-# BK Tourist Guide
+# MobileApp_Travel_HUST
++# BK Tourist Guide
 
 ## Giới thiệu
 Ứng dụng **BK Tourist Guide** là ứng dụng sử dụng công nghệ VR tích hợp AI 
@@ -13,6 +14,5 @@ Link app store:
 Đăng kí:  
 Đăng nhập:  
 Chọn địa điểm tham quan:  
-
 
 

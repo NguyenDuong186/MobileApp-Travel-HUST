@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 tex
 
 tẻ
 rt
 
 tty
+=======
+tex
+
+tẻ
+rt
+
+tty
+>>>>>>> 5befd752b00176cf00fa2f56aaa4e791a6a18598
