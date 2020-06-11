@@ -15,4 +15,4 @@ Link app store:
 Đăng nhập:  
 Chọn địa điểm tham quan:  
 
-MobileApp
+
