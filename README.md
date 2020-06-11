@@ -1,4 +1,4 @@
-# MobileApp_Travel_HUST
+# MobileApp-Travel-HUST
 +# BK Tourist Guide
 
 ## Giới thiệu
